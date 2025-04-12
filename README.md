@@ -2,6 +2,8 @@
 
 A feature-rich todo list web application with category management, task tracking, and built-in search/sort functionality. Built with vanilla JavaScript, HTML5, and CSS3.
 
+DEMO : [Todo List App Preview](https://sejal-badre.github.io/Todo-List-App-main/)
+
 
 
 ## Features
